@@ -58,7 +58,7 @@ const serviceList = [
 const serviceSection = document.getElementById("serviceSection")
 
 serviceList.forEach((item, index) => {
-    console.log(item)
+   
     const serviceItem = `
         <div class="col-md-8 col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="service-item">
